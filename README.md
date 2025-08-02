@@ -1,4 +1,4 @@
-# 🕵️‍♂️ The Scent of The Way Home – Beta v1.0.0
+# The Scent of The Way Home – Beta v1.0.0
 Escape from Sulaymaniyah is a 3D first-person stealth game based on the true story of Iranian freedom fighter Seyed Reza Mousavi, who escapes from a high-security prison in Sulaymaniyah, Iraq.
 
 Built in Unity (C#) and presented by the Next Level Team, this game blends immersive storytelling with stealth-focused gameplay to portray a harrowing yet heroic journey to freedom.
